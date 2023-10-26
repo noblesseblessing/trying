@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "userId": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123"
+    }
+  ],
+  "profile": {
+    "firstname": "asd",
+    "lastname": "qweasd",
+    "age": 14,
+    "currency": "RUB",
+    "country": "Russia",
+    "city": "Che",
+    "username": "admin",
+    "avatar": "https://sun9-9.userapi.com/impg/c858228/v858228275/16f30a/PVKQUikfL2w.jpg?size=1080x1080&quality=96&sign=33b81d628f15c439fe0b9d1a7a5e11b9&type=album"
+  }
+}
