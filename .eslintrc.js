@@ -42,7 +42,7 @@ module.exports = {
         'jsx-a11y/click-events-have-key-events': 'off',
         'react-hooks/rules-of-hooks': 'error', // checks rules of hooks
         'react-hooks/exhaustive-deps': 'error', // checks effect dependencies
-        "react/display-name": 'off', //idk how fix for memo
+        "react/display-name": 'off',
     },
     globals: {
         __IS_DEV__: true,
